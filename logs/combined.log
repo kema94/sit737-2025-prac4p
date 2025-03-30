@@ -1,0 +1,13 @@
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: abc + 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers for addition","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: undefined + undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers for addition","service":"calculator-microservice"}
+{"level":"info","message":"Addition requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction requested: 10 - 5","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication requested: 10 * 5","service":"calculator-microservice"}
+{"level":"info","message":"Division requested: 10 / 5","service":"calculator-microservice"}
